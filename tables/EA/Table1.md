@@ -1,0 +1,15 @@
+Table 1. Path Invariance in Relation to Established Assessment Concepts
+
+| Concept | Object of evaluation | Central question | Relation to path invariance |
+|---|---|---|---|
+| Construct validity and argument-based validation (Cronbach & Meehl, 1955; Kane, 2013) | Interpretations and uses of scores | Is each inference from evidence to decision warranted? | Path invariance is a specific warrant within the interpretation/use argument of a selection system, with stated rebuttal conditions |
+| Construct-irrelevant variance (Haladyna & Downing, 2004; Messick, 1989) | Variance in scores | Does score variance reflect sources other than the construct? | Decision-level analogue: weight on the pathway record that is not warranted by the target attribute, even when each record is accurate |
+| Incremental validity (Hunsley & Meyer, 2003; Sechrest, 1963) | Information added by a predictor | Does B improve prediction of a criterion beyond D? | Supplies one of three legitimate warrants for weight on B; path invariance concerns weight, which can exceed or lack predictive gain |
+| Measurement invariance (Millsap, 2011) | Instruments across groups | Does the instrument measure the same construct in each group? | Different object: path invariance concerns how decision makers treat routes of acquisition once an attribute is evidenced |
+| Differential prediction (Cleary, 1968) | Prediction equations across groups | Do the same scores predict the criterion equally across groups? | Different object: pathway is not a group, and a weight can be unwarranted even when prediction is identical across groups |
+| Consequential validity (Messick, 1995; Shepard, 1997) | Consequences of test use | Do the social consequences of use support or undermine the intended interpretation? | Path dependence is a predictable source of adverse consequences when access to pathways is socially patterned (P3) |
+| Evidence-centered design (Mislevy et al., 2003) | Design of assessments | How do student, evidence, and task models connect? | Compatible: a biographical record is an evidence source whose link to the student model must be stated before it is weighted |
+| Fairness and opportunity to learn (AERA et al., 2014; Moss et al., 2008) | Access, treatment, and interpretation across test takers | Have test takers had comparable access and opportunity? | Motivates contextual interpretation of D, which path invariance permits; distinguishes it from credit for possessing an experience |
+| Signaling and credentialism (Collins, 1979; Spence, 1973) | Use of credentials under uncertainty | Why do selectors rely on credentials? | Explains reliance on B when Z is unobserved; path invariance asks what should happen to that reliance as Z becomes evidenced |
+
+Note. B = biographical evidence; D = relatively direct evidence of the target attribute; Z = attributes the institution legitimately targets; P3 = Proposition 3 (see Table 3). AERA et al. = American Educational Research Association, American Psychological Association, and National Council on Measurement in Education.

@@ -1,0 +1,12 @@
+DRAFT generative-AI disclosure (for author review; Taylor & Francis AI Policy requires the full tool name and version, how it was used, and why).
+Basis: verifiable project history only. Git commits for this manuscript in the author's private working repository are authored by "Devin AI" (Cognition AI's software-engineering agent), and the revision and QC passes were run in Devin sessions on instructions written by the author.
+
+Draft statement:
+
+Use of generative AI. During the preparation of this manuscript the author used Devin (Cognition AI; underlying model and version: [AUTHOR TO INSERT - not recorded in the project history]) [AUTHOR TO ADD any other generative-AI tools used, e.g., for drafting instructions or earlier versions, with name and version]. The tool was used, under the author's direction, to (a) draft and revise manuscript text and restructure the argument for the target journal; (b) retrieve and check bibliographic metadata against Crossref and format references in APA style; (c) write code that generates the conceptual figures, tables, and document files; and (d) run consistency, citation, and reproducibility checks. It was used to increase the efficiency of drafting, formatting, and quality control. No generative AI tool was used to create or alter data; the manuscript analyzes no data. The author reviewed and edited all output, checked the cited sources, and takes full responsibility for the content of the manuscript.
+
+Items the author must decide or confirm:
+1. Model/version of the AI system (not established from project records; do not guess).
+2. Whether other AI tools were used at any stage (e.g., to draft task instructions or earlier text).
+3. Whether to describe AI-assisted text drafting as above or more narrowly.
+4. Placement: the "Use of Generative AI" section of the manuscript (currently a placeholder) and, if requested, the submission form / cover letter.
